@@ -1,0 +1,72 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+     box-sizing: border-box;
+   font-family: 'Poppins', sans-serif;
+   overflow-y: hidden;
+}
+
+nav{
+
+    width :100%;
+    position: sticky;
+    left: 0;
+    top: 0;
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.5);
+    z-index: 10;
+}
+
+.nav-link{
+
+    color: white !important;
+
+}
+
+.nav-link:hover{
+    border-bottom: 1px solid deepskyblue;
+}
+
+/*---home--- */
+
+section{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+  h1.name {
+    font-size: 6rem;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+  }
+/*p.designation{
+
+  font-family: 'Libre Baskerville', serif;
+
+}*/
+
+@media only screen and (max-width: 600px) {
+  #demo {
+    font-size: 1rem !important;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  p.hii {
+    font-size: 1.5rem !important;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  p.designation {
+    font-size: 0.8rem !important;
+  }
+}
+
