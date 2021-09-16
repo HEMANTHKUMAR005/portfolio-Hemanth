@@ -54,19 +54,19 @@ section{
 
 @media only screen and (max-width: 600px) {
   #demo {
-    font-size: 1rem !important;
+    font-size: 4rem !important;
   }
 }
 
 @media only screen and (max-width: 600px) {
   p.hii {
-    font-size: 1.5rem !important;
+    font-size: 3rem !important;
   }
 }
 
 @media only screen and (max-width: 600px) {
   p.designation {
-    font-size: 0.8rem !important;
+    font-size: 2rem !important;
   }
 }
 
