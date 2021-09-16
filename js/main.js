@@ -1,5 +1,5 @@
 var i = 0;
-var txt = 'Hemanth Kumar K';
+var txt = 'SRK';
 var speed = 100;
 function typeWriter() { 
   if (i < txt.length) {
