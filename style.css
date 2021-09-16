@@ -68,6 +68,10 @@ section{
   div #mbtop {
     top: 10% !important;
   }
+
+  nav {
+        padding-top: 1rem !important;
+  }
 }
 
 
