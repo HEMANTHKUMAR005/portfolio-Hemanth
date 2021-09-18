@@ -46,13 +46,6 @@ function welcome() {
 
 welcome();
 
- $(document).ready(function(){
-        $(".scroll").pullToRefresh({
-             refresh:200
-        })
-        .on("refresh.pulltorefresh", function (){
-            location.reload();
-        });
-    });
+
 
 
