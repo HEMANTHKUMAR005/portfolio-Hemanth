@@ -54,19 +54,20 @@ section{
 
 @media only screen and (max-width: 600px) {
   #demo {
-    font-size: 2.5rem !important;
+    font-size: 2rem !important;
 
   }
   p.hii {
-    font-size: 4rem !important;
+    font-size: 3rem !important;
   }
 
   p.designation {
-    font-size: 1.2rem !important;
+    font-size: 1rem !important;
   }
 
   div #mbtop {
     top: 10% !important;
+    margin-left: 5% !important;
   }
 
   nav {
