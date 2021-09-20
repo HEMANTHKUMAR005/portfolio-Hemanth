@@ -40,7 +40,19 @@ section{
     
 }
 
+#pic {
+  
+  width: 140%;
+   height: 60%;
+  border-radius: 50%;
+}
 
+#img {
+    display: flex;
+   align-items: center;
+   justify-content: initial;
+   margin-top: 8%;
+}
   h1.name {
     font-size: 6rem;
     color: white;

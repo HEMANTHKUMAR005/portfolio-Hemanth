@@ -17,7 +17,7 @@ function typeWriter() {
 
 
      var a = 0;
-var data = ' Java Developer, Full Stack Developer.';
+var data = ' Java Developer, Full Stack Web Developer.';
 var speed1 = 120;
 function role() { 
   if (a < data.length) {
