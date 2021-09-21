@@ -42,7 +42,7 @@ section{
 
 #pic {
   
-  width: 140%;
+  width: 100%;
    height: 60%;
   border-radius: 50%;
   border: 2px #212529 solid;
@@ -88,6 +88,7 @@ section{
 
  #img {
    margin-top: 0% !important;
+   display: none;
 }
 
   nav {
