@@ -10,8 +10,7 @@ function typeWriter() {
   if(i == txt.length){
     $('#desg').show();
    setTimeout(function(){ role();}, 300);
- 
-
+   
   }
 };
 
@@ -24,6 +23,11 @@ function role() {
     document.getElementById("desg").innerHTML += data.charAt(a);
     a++;
     setTimeout(role, speed1);
+  }
+
+  if(a == data.length){
+    $('#img').show();
+   
   }
 };
 

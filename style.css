@@ -45,6 +45,7 @@ section{
   width: 140%;
    height: 60%;
   border-radius: 50%;
+
 }
 
 #img {
@@ -52,6 +53,8 @@ section{
    align-items: center;
    justify-content: initial;
    margin-top: 8%;
+   position: sticky;
+
 }
   h1.name {
     font-size: 6rem;
