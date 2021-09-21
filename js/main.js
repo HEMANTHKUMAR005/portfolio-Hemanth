@@ -27,6 +27,7 @@ function role() {
 
   if(a == data.length){
     $('#img').show();
+    $('#connect').show();
    
   }
 };
