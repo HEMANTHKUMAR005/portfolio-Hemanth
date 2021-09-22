@@ -25,10 +25,10 @@ function role() {
     setTimeout(role, speed1);
   }
 
-  if(a == data.length){
+  if(a == data.length){ 
     $('#img').show();
     $('#connect').show();
-   
+   $('#prfbtn').show();
   }
 };
 
@@ -50,6 +50,7 @@ function welcome() {
 };
 
 welcome();
+
 
 
 
