@@ -164,9 +164,9 @@ section{
     margin-top: 36% !important;
 
  }
- h2 #profiletag {
-   margin-top: 22%;
-   color: orange;text-decoration-line: underline;
+ h2.profiletag {
+   margin-top: 24% !important;
+   color: orange ;text-decoration-line: underline !important;
  }
 }
 
