@@ -171,6 +171,16 @@ section{
  .aboutme {
    margin-top: 5% !important;
  }
+ .col-3 {
+  width: 20% !important;
+ }
+  #Skillimg{
+     width: 150% !important;
+    height: 100% !important;
+  }
+  .backendskill{
+     margin-top: 10% !important;
+  }
 }
 
 /*---about--- */
@@ -182,9 +192,20 @@ section{
     margin-top: 14%;
  }
  
+/*---Skills--- */
+ #frntlog {
+  justify-content: center;     
+    display: flex;
+  }
 
+ #Skillimg {
 
-
+  width: 60%;
+    height: 100%;
+    border-radius: 50%;
+    border: 2px #23afe5 solid;
+    background: aliceblue;
+ }
 
 
 
