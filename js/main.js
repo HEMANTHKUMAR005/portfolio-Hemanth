@@ -56,6 +56,7 @@ welcome();
 function myFunction(x) {
   if (x.matches) { // If media query matches
    $('#sizefix .col-md-2').addClass('col-3');
+   // $("#navbar").click();
   } else {
    $('#sizefix .col-md-2').addClass('col-md-2');
   }
@@ -65,5 +66,8 @@ var x = window.matchMedia("(max-width: 600px)")
 myFunction(x) // Call listener function at run time
 x.addListener(myFunction) // Attach
 
+$(".nav-link").click(function(){
+  $("#navbar").click();
+})
 
 
