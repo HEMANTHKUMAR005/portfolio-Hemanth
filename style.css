@@ -180,8 +180,11 @@ section{
      width: 140% !important;
     height: 100% !important;
   }
-  .skilladjus{
-     margin-top: 20% !important;
+  .frntadjus{
+     margin-top: 15% !important;
+  }
+  .backadjus{
+    margin-top: 20% !important;
   }
 }
 
