@@ -34,7 +34,7 @@ function role() {
 
 
      var b = 0;
-var data1 = "Hii, I'm";
+var data1 = "Hey, I'm";
 var speed2 = 100;
 function welcome() { 
   if (b < data1.length) {
