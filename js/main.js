@@ -67,7 +67,7 @@ myFunction(x) // Call listener function at run time
 x.addListener(myFunction) // Attach
 
 $(".nav-link").click(function(){
-  $("#navbar").click();
+  $("#navbarSupportedContent").removeClass('show');
 })
 
 
