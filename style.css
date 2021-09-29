@@ -79,7 +79,7 @@ section{
 }
 
   h1.name {
-    font-size: 6rem;
+    font-size: 5rem;
     color: white;
     font-family: 'Libre Baskerville', serif;
   }
@@ -162,7 +162,7 @@ section{
   }
 
   span.justifytext{
-    margin-top: 38% !important;
+    margin-top: 39% !important;
 
  }
  h2.profiletag {
@@ -171,8 +171,13 @@ section{
    padding-bottom: 10px !important; ;
  }
 
+ #img1 {
+  margin-top: 0% !important;
+}
+
+
  .aboutme {
-   margin-top: 5% !important;
+   margin-top: 10% !important;
  }
  .col-3 {
   width: 20% !important;
@@ -195,7 +200,7 @@ section{
   color: #f8f9fa;
     position: absolute;
     /* left: 115px; */
-    margin-top: 14%;
+    margin-top: 15%;
  }
  
 /*---Skills--- */
