@@ -195,7 +195,11 @@ section{
   }
 
   .reachmeon{
-    font-size: medium ! important;
+    font-size: small !important;
+  }
+
+  .contctnum{
+    text-align: center !important;
   }
 }
 
