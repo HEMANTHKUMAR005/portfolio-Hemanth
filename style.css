@@ -154,7 +154,7 @@ section{
     margin-top: 8%;
 }
 #pic1 {
-      height: 75%;
+      height: 75% !important;
   }
 
   nav {
