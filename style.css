@@ -52,7 +52,7 @@ section{
 #pic1 {
   
   width: 40%;
-   height: 75%;
+   height: 70%;
   border-radius: 50%;
   border: 2px #212529 solid;
 
@@ -153,6 +153,9 @@ section{
     display: block;
     margin-top: 8%;
 }
+#pic1 {
+      height: 75%;
+  }
 
   nav {
     top: 0 !important;
